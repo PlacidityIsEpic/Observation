@@ -4,6 +4,7 @@ Current Version: Alpha 1.0
 Click the text above to go to the site!
 
 Create an Observation page easily with a template:
+(create a index.html in a new repository)
 ```html
 <!DOCTYPE html>
 <html lang="en">
