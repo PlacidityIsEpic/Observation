@@ -3,6 +3,11 @@
   src: url(Segoe.ttf);
 }
 
+@font-face{
+  font-family: Fira;
+  src: url(FiraCode.ttf);
+}
+
 body{
     margin: 10px;
 }
@@ -20,6 +25,7 @@ body{
 }
 
 .code{
+    font-family: 'Fira';
     color: rgb(255, 194, 194);
     text-shadow: 3px, 3px, 5 black;
 }
