@@ -17,8 +17,8 @@ Github CLI:
 ```console
 gh repo clone PlacidityIsEpic/ov-video
 ```
-IMPORTANT NOTE
-For the video clone, you can simply remove vid.mp4 (example video), and replace it with your new video.
+#### IMPORTANT NOTE
+############# For the video clone, you can simply remove vid.mp4 (example video), and replace it with your new video.
 ---------------------------
 
 ### Documents
