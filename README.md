@@ -3,6 +3,8 @@ Current Version: Alpha 1.0
 
 Click the text above to go to the site!
 
+(E-Mail placidityisepic@gmail.com the website link to have a chance of getting your video in the recommended page or the all views page!)
+
 ## CLONE METHOD
 
 ### Videos
