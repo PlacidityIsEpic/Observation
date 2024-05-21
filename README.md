@@ -3,6 +3,26 @@ Current Version: Alpha 1.0
 
 Click the text above to go to the site!
 
+## CLONE METHOD
+
+### Videos
+There are some template to clone, if you wanna clone a video, run this in terminal.
+ ```console
+ git clone https://github.com/PlacidityIsEpic/ov-video.git
+ ```
+IMPORTANT NOTE
+For the video clone, you can simply remove vid.mp4 (example video), and replace it with your new video.
+---------------------------
+
+### Documents
+```console
+Coming soon.
+```
+Documents using the clone method is coming soon! Please use the paste method for documents.
+---------------------------
+
+## PASTE METHOD
+
 Create an Observation page easily with a template:
 (create a index.html in a new repository)
 ```html
