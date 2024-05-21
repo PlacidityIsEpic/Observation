@@ -10,6 +10,11 @@ There are some template to clone, if you wanna clone a video, run this in termin
  ```console
  git clone https://github.com/PlacidityIsEpic/ov-video.git
  ```
+
+Github CLI:
+```console
+gh repo clone PlacidityIsEpic/ov-video
+```
 IMPORTANT NOTE
 For the video clone, you can simply remove vid.mp4 (example video), and replace it with your new video.
 ---------------------------
